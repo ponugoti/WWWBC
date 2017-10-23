@@ -1,4 +1,4 @@
-# Wacky Waving Wellness Booking System
+# [Wacky Waving Wellness Booking System](https://git.cs.usask.ca/hih050/Wacky-Waving-Wellness-Booking-System/)
 
 
 Wacky Waving Wellness Booking System (WWWBS) is Saskatchewan's first online booking system for a medical clinic, to be tested and deployed at the University of Saskatchewan's Student Wellness Centre. 
